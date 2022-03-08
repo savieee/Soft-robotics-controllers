@@ -41,7 +41,7 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 4. Before moving on to preparing the mixture, turn the scale on, place the pot on the scale, and zero the scale.
 
 ### Preparing the mixture
-1. Take the DragonSkin 10NV and read the datasheet for the pot life, cure time, and the ratio the materials are poured in; for DragonSkin 10NV the pot life is 15 minutes, the cure time is 75 minutes, and they should be poured in a 1:1 ratio (same weight for each substance). 
+1. Take the any elastomer (e.g., DragonSkin 10NV) and read the datasheet for the pot life, cure time, and the ratio the materials are poured in; for DragonSkin 10NV the pot life is 15 minutes, the cure time is 75 minutes, and they should be poured in a 1:1 ratio (same weight for each substance). 
 2. If this is a new set of DragonSkin, make two holes in the tops of each of the containers: one large hole for pouring and one smaller hole to allow airflow. Then follow these ensuing steps:
 
 
@@ -51,8 +51,8 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
         * As seen in Figure 1D, place the pot with the mixture on top of the cloth inside the vacuum-chamber and close it with a lid of the vacuum-chamber.
         * Turn on the vacuum-chamber using the correct valve orientation as shown in Figure 1E. Once started you will be able to see a rise of pressure on the gauge. 
         * Keep track of time and air bubble reduction in the mixture. While the vacuum chamber is running, start preparing the molds.
-        
-        
+ 
+### Preparing the mixture        
         More detailed information can be found in the linked supplemental files. 
 
 ## Important Physical Considerations for soft bistable valve: 
