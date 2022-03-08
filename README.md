@@ -1,8 +1,8 @@
 # Soft bistable valve
-A soft bistable valve is a device that has a membrane that opens or closes tubing depending on the way the membrane is flipped; acting analogously to a MOSFET transistor in an electrical circuit. Soft bistable valve can be configured as different logic gates(e.g., NOT, OR and AND gates).
+A soft bistable valve is a device that has a membrane that opens or closes tubing depending on the way the membrane is flipped; acting analogously to a MOSFET transistor in an electrical circuit. The soft bistable valve can be configured as either an OR-gate, an AND-gate, or a NOT-gate.
 
 ## Link to supplemental resources:
-This file contains links to the supplemental information on how to construct the Soft B\bistable valve. I also includes important physical considerations for the operation of the valve. 
+This file contains links to the supplemental information on how to construct the soft bistable valve. It also includes important physical considerations for the operation of the valve. 
 
 * Soft Non-Volatile Memory for Non-Electronic Information Storage in Soft Robots  
 M.P. Nemitz, C.K. Abrahamsson, L. Wille, D.J. Preston, A.A. Stokes, G.M. Whitesides  
