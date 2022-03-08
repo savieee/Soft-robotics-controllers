@@ -91,8 +91,7 @@ More detailed information can be found in the linked supplemental files.
 * The maximum pressure is 30 kPa.A penumatic pump can be used to provide positive pressure supply. 
 
 ## Important Physical Considerations for soft bistable valve: 
-1. Propogation delay: 
-2. 
-3. 
+1. Propogation delay: The propagation delay is dependent on the membrane thickness, opening angle of the membrane, material properties of the membrane, as well as the chamber volume and length of tubes between valves.
+2. In a fluidic circuit where number of soft bistable valves are connected to each other, as number of soft bistable valve increases, the propogation delay also increases.
 
 More detailed information can be found in the linked supplemental files. 
