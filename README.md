@@ -1,7 +1,9 @@
 # Soft bistable valve
-This file contains links to the supplemental information on how to construct the Soft B\bistable valve. I also includes important physical considerations for the operation of the valve. 
+A soft bistable valve is a device that has a membrane that opens or closes tubing depending on the way the membrane is flipped; acting analogously to a MOSFET transistor in an electrical circuit.
 
 ## Link to supplemental resources:
+This file contains links to the supplemental information on how to construct the Soft B\bistable valve. I also includes important physical considerations for the operation of the valve. 
+
 * Soft Non-Volatile Memory for Non-Electronic Information Storage in Soft Robots  
 M.P. Nemitz, C.K. Abrahamsson, L. Wille, D.J. Preston, A.A. Stokes, G.M. Whitesides  
 [IEEE Soft Robotics Conference, New Haven, 2020](https://cpb-us-w2.wpmucdn.com/wp.wpi.edu/dist/e/484/files/2021/09/Soft_Non-Volatile_Memory_for_Non-Electronic_Information_Storage_in_Soft_Robots.pdf)  
@@ -16,6 +18,21 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 [Science Robotics, 3(16), 2018](https://gmwgroup.harvard.edu/files/gmwgroup/files/1301.pdf)  
 
 ## Fabrication of a soft bistable valve: 
+
+Materials: 
+● Vacuum-chamber
+● DragonSkin 10 NV
+● Mold Release Spray
+● Gloves 
+● Scale 
+● Pot
+● Paper towels
+● Wooden dowel 
+● Pigment
+● Molds (4 pieces)
+● Needles (4)
+● Acrylic sheets (6)
+
 1. 
 2. 
 3. 
