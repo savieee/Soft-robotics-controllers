@@ -19,25 +19,41 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 
 ## Fabrication of a soft bistable valve: 
 
-Materials: 
-● Vacuum-chamber
-● DragonSkin 10 NV
-● Mold Release Spray
-● Gloves 
-● Scale 
-● Pot
-● Paper towels
-● Wooden dowel 
-● Pigment
-● Molds (4 pieces)
-● Needles (4)
-● Acrylic sheets (6)
+### Materials: 
+* Vacuum-chamber
+* DragonSkin 10 NV
+* Mold Release Spray
+* Gloves 
+* Scale 
+* Pot
+* Paper towels
+* Wooden dowel 
+* Pigment
+* Molds (4 pieces)
+* Needles (4)
+* Acrylic sheets (6)
 
-1. 
-2. 
-3. 
-4. 
-More detailed information can be found in the linked supplemental files. 
+### Setting up: 
+
+1. First gather all the materials on the list above.
+2. Put on a set of gloves, open the vacuum-chamber, and connect it to a power supply. 
+3. Place the bottom of the vacuum-chamber with a paper towel to avoid creating a mess when the chamber is used in future steps. 
+4. Before moving on to preparing the mixture, turn the scale on, place the pot on the scale, and zero the scale.
+
+### Preparing the mixture
+1. Take the DragonSkin 10NV and read the datasheet for the pot life, cure time, and the ratio the materials are poured in; for DragonSkin 10NV the pot life is 15 minutes, the cure time is 75 minutes, and they should be poured in a 1:1 ratio (same weight for each substance). 
+2. If this is a new set of DragonSkin, make two holes in the tops of each of the containers: one large hole for pouring and one smaller hole to allow airflow. Then follow these ensuing steps:
+
+
+        * Pour ~30g of material 1 into the cup on the scale, as shown in Figure 1A. Record the exact weight of material 1, zero the scale, take a new paper towel to clean the rim of the container.
+        * Repeat step 1 for material 2, as shown in Figure 1B, trying to match the weight of material 2 to the exact weight of material 1. Start the timer of the pot life (15 minutes) as the chemical reactions have started. Clean the rim of the container with material 2 with a new paper towel to mitigate the risk of curing the lids shut.
+        * Take the pot off the weighing machine and add pigment (~1 g) by dipping a wooden dowel slightly in the pigment as depicted in Figure 1C. Then using that dowel slowly mix the mixture to avoid introducing air bubbles.
+        * As seen in Figure 1D, place the pot with the mixture on top of the cloth inside the vacuum-chamber and close it with a lid of the vacuum-chamber.
+        * Turn on the vacuum-chamber using the correct valve orientation as shown in Figure 1E. Once started you will be able to see a rise of pressure on the gauge. 
+        * Keep track of time and air bubble reduction in the mixture. While the vacuum chamber is running, start preparing the molds.
+        
+        
+        More detailed information can be found in the linked supplemental files. 
 
 ## Important Physical Considerations for soft bistable valve: 
 1. 
