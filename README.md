@@ -52,7 +52,23 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
         * Turn on the vacuum-chamber using the correct valve orientation. Once started you will be able to see a rise of pressure on the gauge. 
         * Keep track of time and air bubble reduction in the mixture. While the vacuum chamber is running, start preparing the molds.
  
-### Preparing the mixture        
+### Preparing the mixture 
+
+       * Create a designated area where the molds can cure; they will be difficult to move once they are filled with solution. 
+       * Layout the molds in a row to make it easier to apply the mold release. 
+       * Apply the mold release spray from ~30cm away from the mold to thoroughly coat it. Do this for all molds and needles. 
+       * Now assemble the cap molds by putting the needles into the holes of the top and bottom, leaving a small gap between the needles by resting them on the pegs in the mold. 
+       * To keep needles in place, place an acrylic sheet (one per needle) on the ends.
+       * When there are a few bubbles on the perimeter of the pot in the vacuum-chamber, switch off the pump to release air from the vacuum-chamber, otherwise it could implode.
+
+
+### Pouring the molds
+       * To fill the first mold of the valve, take the pot and pour in the substance at a 45° angle and rotate the mold while pouring so that material gets into all the crevices and closes effectively.
+       * Pour to the top of the mold (do not worry about excess material, for it will get forced out in the following step).
+       * For the top and bottom cap molds (with the needles), first only pour on one side of the needles. Wait for the material to settle and flow from underneath the needle. Then pour from the other side to fill in the rest of the molds. The needles should be covered.
+       * Returning to the first mold, coat the lid of the valve mold by slowly turning it at an 80° angle to the valve mold as shown in Figure 3D. Once the lid is nicely coated, rotate and push the cap on snuggly. Excess material will come out of the top holes as seen in Figure 3E.
+       * Returning to the cap molds, slowly lower an acrylic sheet (one for each cap mold) at a ~20° angle and push down.
+       * Set the timer for curing. After done curing, carefully remove the molds and other supporting fixtures.
         More detailed information can be found in the linked supplemental files. 
 
 ## Important Physical Considerations for soft bistable valve: 
