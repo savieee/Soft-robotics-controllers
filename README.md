@@ -43,10 +43,6 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 3. Place the bottom of the vacuum-chamber with a paper towel to avoid creating a mess when the chamber is used in future steps. 
 4. Before moving on to preparing the mixture, turn the scale on, place the pot on the scale, and zero the scale.
 5. The molds needs to be fabricated before the fabrication processes starts. Below are the snippets of the molds; the detailed information can be gained from the supplimental materials:
-<img width="599" alt="Screen Shot 2022-03-08 at 7 35 33 AM" src="https://user-images.githubusercontent.com/68814774/157253566-b4ec2f09-844b-42b4-a75a-dcefa9d3424a.png">
-<img width="397" alt="Screen Shot 2022-03-08 at 7 49 30 AM" src="https://user-images.githubusercontent.com/68814774/157253639-f90019b1-e974-4e86-a403-aba087e65171.png">
-<img width="328" alt="Screen Shot 2022-03-08 at 7 50 14 AM" src="https://user-images.githubusercontent.com/68814774/157253672-93074b44-52eb-44c0-a504-61224a048d4e.png">
-<img width="448" alt="Screen Shot 2022-03-08 at 7 50 30 AM" src="https://user-images.githubusercontent.com/68814774/157253688-1ebcb9d5-2457-4a07-a4f7-8e9c465ca4d2.png">
 
 ### Preparing the mixture
 1. Take the any elastomer (e.g., DragonSkin 10NV) and read the datasheet for the pot life, cure time, and the ratio the materials are poured in; for DragonSkin 10NV the pot life is 15 minutes, the cure time is 75 minutes, and they should be poured in a 1:1 ratio (same weight for each substance). 
