@@ -19,6 +19,9 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 
 ## Fabrication of a soft bistable valve: 
 
+<img width="1183" alt="Screen Shot 2022-03-08 at 7 34 11 AM" src="https://user-images.githubusercontent.com/68814774/157252858-aac9fc8c-4152-4e48-b00f-7ba56cdcffba.png">
+
+
 ### Materials: 
 * Vacuum-chamber
 * DragonSkin 10 NV
