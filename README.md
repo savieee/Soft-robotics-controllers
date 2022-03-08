@@ -47,7 +47,7 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 ![Soft bistable valve](https://user-images.githubusercontent.com/68814774/157264534-b7dc763c-bf70-4f52-82ab-320634461fac.jpg)
 
 
-### Fabrication of body of soft bistable valve
+### Fabrication of body for soft bistable valve
 
 #### Preparing the mixture
 1. Take the any elastomer (e.g., DragonSkin 10NV) and read the datasheet for the pot life, cure time, and the ratio the materials are poured in; for DragonSkin 10NV the pot life is 15 minutes, the cure time is 75 minutes, and they should be poured in a 1:1 ratio (same weight for each substance). 
@@ -79,6 +79,9 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 * Set the timer for curing. After done curing, carefully remove the molds and other supporting fixtures.
 
 More detailed information can be found in the linked supplemental files. 
+
+### Fabrication of tubing for soft bistable valve
+* For tubing, use smooth sil 950 and yp
 
 ## Important Physical Considerations for soft bistable valve: 
 1. 
