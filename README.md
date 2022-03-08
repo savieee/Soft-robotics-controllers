@@ -15,14 +15,14 @@ D.J. Preston, H.J. Jiang, V. Sanchez, P. Rothemund, J. Rawson, M.P. Nemitz, W.-K
 P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whitesides  
 [Science Robotics, 3(16), 2018](https://gmwgroup.harvard.edu/files/gmwgroup/files/1301.pdf)  
 
-Construction of Bistable Valve: 
+## Fabrication of a soft bistable valve: 
 1. 
 2. 
 3. 
 4. 
 More detailed information can be found in the linked supplemental files. 
 
-Important Physical Considerations for Soft Bistable Valve: 
+## Important Physical Considerations for soft bistable valve: 
 1. 
 2. 
 3. 
