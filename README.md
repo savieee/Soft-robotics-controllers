@@ -25,6 +25,7 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 ### Materials: 
 * Vacuum-chamber
 * DragonSkin 10 NV
+* Smooth Sil 950
 * Mold Release Spray
 * Gloves 
 * Scale 
@@ -45,9 +46,9 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 5. The molds needs to be fabricated before the fabrication processes starts. Below are the snippets of the molds; the detailed information can be gained from the supplimental materials.
 
 
-### Fabrication of body of 
+### Fabrication of body of soft bistable valve
 
-### Preparing the mixture
+#### Preparing the mixture
 1. Take the any elastomer (e.g., DragonSkin 10NV) and read the datasheet for the pot life, cure time, and the ratio the materials are poured in; for DragonSkin 10NV the pot life is 15 minutes, the cure time is 75 minutes, and they should be poured in a 1:1 ratio (same weight for each substance). 
 2. If this is a new set of DragonSkin, make two holes in the tops of each of the containers: one large hole for pouring and one smaller hole to allow airflow. Then follow these ensuing steps:
 
@@ -59,7 +60,7 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 * Turn on the vacuum-chamber using the correct valve orientation. Once started you will be able to see a rise of pressure on the gauge. 
 * Keep track of time and air bubble reduction in the mixture. While the vacuum chamber is running, start preparing the molds.
  
-### Preparing the mixture 
+#### Preparing the mixture 
 
 * Create a designated area where the molds can cure; they will be difficult to move once they are filled with solution. 
 * Layout the molds in a row to make it easier to apply the mold release. 
@@ -68,7 +69,7 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 * To keep needles in place, place an acrylic sheet (one per needle) on the ends.
 * When there are a few bubbles on the perimeter of the pot in the vacuum-chamber, switch off the pump to release air from the vacuum-chamber, otherwise it could implode.
 
-### Pouring the molds
+#### Pouring into the molds
 * To fill the first mold of the valve, take the pot and pour in the substance at a 45° angle and rotate the mold while pouring so that material gets into all the crevices and closes effectively.
 * Pour to the top of the mold (do not worry about excess material, for it will get forced out in the following step).
 * For the top and bottom cap molds (with the needles), first only pour on one side of the needles. Wait for the material to settle and flow from underneath the needle. Then pour from the other side to fill in the rest of the molds. The needles should be covered.
