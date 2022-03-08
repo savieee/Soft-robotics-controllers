@@ -44,6 +44,7 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 3. Place the bottom of the vacuum-chamber with a paper towel to avoid creating a mess when the chamber is used in future steps. 
 4. Before moving on to preparing the mixture, turn the scale on, place the pot on the scale, and zero the scale.
 5. The molds needs to be fabricated before the fabrication processes starts. Below are the snippets of the molds; the detailed information can be gained from the supplimental materials.
+![Soft bistable valve](https://user-images.githubusercontent.com/68814774/157264534-b7dc763c-bf70-4f52-82ab-320634461fac.jpg)
 
 
 ### Fabrication of body of soft bistable valve
