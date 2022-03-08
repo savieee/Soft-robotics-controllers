@@ -42,7 +42,10 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 2. Put on a set of gloves, open the vacuum-chamber, and connect it to a power supply. 
 3. Place the bottom of the vacuum-chamber with a paper towel to avoid creating a mess when the chamber is used in future steps. 
 4. Before moving on to preparing the mixture, turn the scale on, place the pot on the scale, and zero the scale.
-5. The molds needs to be fabricated before the fabrication processes starts. Below are the snippets of the molds; the detailed information can be gained from the supplimental materials:
+5. The molds needs to be fabricated before the fabrication processes starts. Below are the snippets of the molds; the detailed information can be gained from the supplimental materials.
+
+
+### Fabrication of body of 
 
 ### Preparing the mixture
 1. Take the any elastomer (e.g., DragonSkin 10NV) and read the datasheet for the pot life, cure time, and the ratio the materials are poured in; for DragonSkin 10NV the pot life is 15 minutes, the cure time is 75 minutes, and they should be poured in a 1:1 ratio (same weight for each substance). 
