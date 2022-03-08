@@ -55,12 +55,12 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 2. If this is a new set of DragonSkin, make two holes in the tops of each of the containers: one large hole for pouring and one smaller hole to allow airflow. Then follow these ensuing steps:
 
 
-* Pour ~30g of material 1 into the cup on the scale. Record the exact weight of material 1, zero the scale, take a new paper towel to clean the rim of the container.
-* Repeat step 1 for material 2, trying to match the weight of material 2 to the exact weight of material 1. Start the timer of the pot life (15 minutes) as the chemical reactions have started. Clean the rim of the container with material 2 with a new paper towel to mitigate the risk of curing the lids shut.
-* Take the pot off the weighing machine and add pigment (~1 g) by dipping a wooden dowel slightly in the pigment. Then using that dowel slowly mix the mixture to avoid introducing air bubbles.
-* Place the pot with the mixture on top of the cloth inside the vacuum chamber and close it with a lid of the vacuum chamber.
-* Turn on the vacuum chamber using the correct valve orientation. Once started you will be able to see a rise of pressure on the gauge. 
-* Keep track of time and air bubble reduction in the mixture. While the vacuum chamber is running, start preparing the molds.
+     * Pour ~30g of material 1 into the cup on the scale. Record the exact weight of material 1, zero the scale, take a new paper towel to clean the rim of the container.
+     * Repeat step 1 for material 2, trying to match the weight of material 2 to the exact weight of material 1. Start the timer of the pot life (15 minutes) as the chemical reactions have started. Clean the rim of the container with material 2 with a new paper towel to mitigate the risk of curing the lids shut.
+     * Take the pot off the weighing machine and add pigment (~1 g) by dipping a wooden dowel slightly in the pigment. Then using that dowel slowly mix the mixture to avoid introducing air bubbles.
+     * Place the pot with the mixture on top of the cloth inside the vacuum chamber and close it with a lid of the vacuum chamber.
+     * Turn on the vacuum chamber using the correct valve orientation. Once started you will be able to see a rise of pressure on the gauge. 
+     * Keep track of time and air bubble reduction in the mixture. While the vacuum chamber is running, start preparing the molds.
  
 #### Preparing the mixture 
 
@@ -85,8 +85,8 @@ More detailed information can be found in the linked supplemental files.
 * Seal the tubing to the chamber and tips with gorilla glue and keep it for 30 mins to get it dried out.
 
 ### Assembly of the body and tubing 
-* Glue tubing and body together to form the bistable valve
-* The device is ready for testing
+* Glue tubing and body together to form the bistable valve.
+* The device is ready for testing.
 * The allowed maximum pressure for operating the soft bistable valve is 30 kPa. A pneumatic pump can be used to provide a positive pressure supply. 
 
 ## Important Physical Considerations for soft bistable valve
