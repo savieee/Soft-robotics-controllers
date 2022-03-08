@@ -88,7 +88,7 @@ More detailed information can be found in the linked supplemental files.
 ### Assembly of the body and tubing 
 * Glue tubing and body together to form the bistable valve
 * The device is ready for testing
-* The maximum pressure is 30 kPa. A pneumatic pump can be used to provide positive pressure supply. 
+* The allowed maximum pressure for operating the soft bistable valve is 30 kPa. A pneumatic pump can be used to provide positive pressure supply. 
 
 ## Important Physical Considerations for soft bistable valve
 1. Propogation delay: The propagation delay is dependent on the membrane thickness, opening angle of the membrane, material properties of the membrane, as well as the chamber volume and length of tubes between valves.
