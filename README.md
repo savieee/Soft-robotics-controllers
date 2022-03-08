@@ -1,7 +1,7 @@
 # Soft bistable valve
 A soft bistable valve is a device that has a membrane that opens or closes tubing depending on the way the membrane is flipped; acting analogously to a MOSFET transistor in an electrical circuit. The soft bistable valve can be configured as either an OR-gate, an AND-gate, or a NOT-gate.
 
-## Link to supplemental resources:
+## Link to supplemental resources
 This file contains links to the supplemental information on how to construct the soft bistable valve. It also includes important physical considerations for the operation of the valve. 
 
 * Soft Non-Volatile Memory for Non-Electronic Information Storage in Soft Robots  
@@ -17,12 +17,12 @@ D.J. Preston, H.J. Jiang, V. Sanchez, P. Rothemund, J. Rawson, M.P. Nemitz, W.-K
 P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whitesides  
 [Science Robotics, 3(16), 2018](https://gmwgroup.harvard.edu/files/gmwgroup/files/1301.pdf)  
 
-## Fabrication of a soft bistable valve: 
+## Fabrication of a soft bistable valve
 
 <img width="1183" alt="Screen Shot 2022-03-08 at 7 34 11 AM" src="https://user-images.githubusercontent.com/68814774/157252858-aac9fc8c-4152-4e48-b00f-7ba56cdcffba.png">
 
 
-### Materials: 
+### Materials 
 * Vacuum-chamber
 * DragonSkin 10 NV
 * Smooth Sil 950
@@ -38,7 +38,7 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 * Needles (4)
 * Acrylic sheets (6)
 
-### Setting up: 
+### Setting up
 
 1. First gather all the materials on the list above.
 2. Put on a set of gloves, open the vacuum-chamber, and connect it to a power supply. 
@@ -90,7 +90,7 @@ More detailed information can be found in the linked supplemental files.
 * The device is ready for testing
 * The maximum pressure is 30 kPa. A pneumatic pump can be used to provide positive pressure supply. 
 
-## Important Physical Considerations for soft bistable valve: 
+## Important Physical Considerations for soft bistable valve
 1. Propogation delay: The propagation delay is dependent on the membrane thickness, opening angle of the membrane, material properties of the membrane, as well as the chamber volume and length of tubes between valves.
 2. In a fluidic circuit where number of soft bistable valves are connected to each other, as number of soft bistable valve increases, the propogation delay also increases.
 
