@@ -1,7 +1,7 @@
-## soft-bistable-valve
-This file contains links to the supplemental information on how to construct the Soft Bistable Valve. Also included are important physical considerations for the operation of the Soft Bistable Valve. 
+# Soft bistable valve
+This file contains links to the supplemental information on how to construct the Soft B\bistable valve. I also includes important physical considerations for the operation of the valve. 
 
-Link to supplemental resources:
+## Link to supplemental resources:
 * Soft Non-Volatile Memory for Non-Electronic Information Storage in Soft Robots  
 M.P. Nemitz, C.K. Abrahamsson, L. Wille, D.J. Preston, A.A. Stokes, G.M. Whitesides  
 [IEEE Soft Robotics Conference, New Haven, 2020](https://cpb-us-w2.wpmucdn.com/wp.wpi.edu/dist/e/484/files/2021/09/Soft_Non-Volatile_Memory_for_Non-Electronic_Information_Storage_in_Soft_Robots.pdf)  
