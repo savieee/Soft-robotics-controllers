@@ -79,7 +79,7 @@ P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whit
 More detailed information can be found in the linked supplemental files. 
 
 ### Fabrication of tubing for soft bistable valve
-* For tubing, use Smooth-On Smooth-Sil™ and follow the same step from mixing the mixture and pouring the material into the mold. 
+* For tubing, use Smooth-On Smooth-Sil™ and follow the same step of preparing the mixture and pouring the material into the mold. 
 * Seal the tubing to the chamber and tips with gorilla glue and keep it for 30 mins to get it dried out.
 
 ### Assembly of the body and tubing 
