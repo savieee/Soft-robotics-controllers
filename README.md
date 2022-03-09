@@ -37,7 +37,7 @@ Please read all instruction before you begin the process. Once the elastomers ar
 * Molds (8 pieces, multiples fo some pieces will be required)
 * Needles (10)
 * Acrylic sheets (6, 2"x2"x1/8")
-* 5ml plastic syringe(s)
+* 5 ml plastic syringe(s)
 * Tweezers 
 * Pliers (optional)
 * Revolving wire puncher
@@ -69,9 +69,9 @@ Please read all instruction before you begin the process. Once the elastomers ar
 4. To keep the needles secure, place an acrylic sheet at the ends of each needle pushing inward to make sure they arepressed against the pegs.
 
 #### Mixing and Degassing the Elastomer
-This section uses the mixing ration for DragonSkin 10NV. 
+This section uses the mixing ratio for DragonSkin 10NV. 
 
-1. Pour ~30g of material A into the cup on the scale. Record the exact weight of material A, zero the scale, take a new paper towel to clean the rim of the container A.  
+1. Pour ~30 g of material A into the cup on the scale. Record the exact weight of material A, zero the scale, take a new paper towel to clean the rim of the container A.  
 2. Repeat step (a) for material B, trying to match the weight of material B to the exact weight of material A.  Clean the rim of the container B with a new paper towel to mitigate the risk of curing the lids shut.  
 3. Start the timer of the pot life as the chemical reactions have started. 
 4. Take the paper cup off the scale and add pigment (~1 g) by dipping a wooden dowel slightly in the pigment. Then using that dowel slowly mix all parts until completly mixed together. Mix slowly to avoid introducing air bubbles.  
@@ -116,8 +116,8 @@ For the tubing you will need 2 materials. Repeat the steps in Mixing and Degassi
 #### Mixing and Degassing the Elastomer for Tubing 
 This section uses the mixing ratio for SmoothSil 950.
 
-1. Pour ~30g of material A into the cup on the scale. Record the exact weight of material A, zero the scale, take a new paper towel to clean the rim of the container A.  
-2. Pour ~3g of material B into the cup on the scale. Make sure that the final ratio of parts is 100A:10B. Take a new paper towel to clean the rim of the container B.  
+1. Pour ~30 g of material A into the cup on the scale. Record the exact weight of material A, zero the scale, take a new paper towel to clean the rim of the container A.  
+2. Pour ~3 g of material B into the cup on the scale. Make sure that the final ratio of parts is 100A:10B. Take a new paper towel to clean the rim of the container B.  
 3. Start the timer of the pot life as the chemical reactions have started. 
 4. Using the woodel dowel slowly mix parts A and B until completly mixed together. Mix slowly to avoid introducing extra air bubbles.  
 5. Place the paper cup with the mixed elastomer on top of the paper towel inside the vacuum chamber and close the lid of the vacuum chamber.  
