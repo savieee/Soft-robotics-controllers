@@ -1,8 +1,8 @@
-# Soft bistable valve
-A soft bistable valve is a device that has a membrane that opens or closes tubing depending on the way the membrane is flipped; acting analogously to a MOSFET transistor in an electrical circuit. The soft bistable valve can be configured as either an OR-gate, an AND-gate, or a NOT-gate.
+# Silicone-based Soft fluidic valve
+A soft fluidic valve is a device that has a membrane that opens or closes tubing depending on the way the membrane is flipped; acting analogously to a MOSFET transistor in an electrical circuit. The soft fluidic valve can be configured as either an OR-gate, an AND-gate, or a NOT-gate.
 
 ## Link to supplemental resources
-This file contains links to the supplemental information on how to construct the soft bistable valve. It also includes important physical considerations for the operation of the valve. 
+This file contains links to the supplemental information on how to construct the soft fluidic valve. It also includes important physical considerations for the operation of the valve. 
 
 * Soft Non-Volatile Memory for Non-Electronic Information Storage in Soft Robots  
 M.P. Nemitz, C.K. Abrahamsson, L. Wille, D.J. Preston, A.A. Stokes, G.M. Whitesides  
@@ -17,7 +17,7 @@ D.J. Preston, H.J. Jiang, V. Sanchez, P. Rothemund, J. Rawson, M.P. Nemitz, W.-K
 P. Rothemund, A. Ainla, L. Belding, D.J. Preston, S. Kurihara, Z. Suo, G.M. Whitesides  
 [Science Robotics, 3(16), 2018](https://gmwgroup.harvard.edu/files/gmwgroup/files/1301.pdf)  
 
-## Fabrication of a soft bistable valve
+## Fabrication of a soft fluidic valve
 Please read all instruction before you begin the process. Once the elastomers are mixed there is limited time. Additional infomartion is avalible in the supplmental information. 
 
 <img width="1183" alt="Screen Shot 2022-03-08 at 7 34 11 AM" src="https://user-images.githubusercontent.com/68814774/157252858-aac9fc8c-4152-4e48-b00f-7ba56cdcffba.png">
@@ -50,10 +50,10 @@ Please read all instruction before you begin the process. Once the elastomers ar
 3. Place paper towels in the bottom of the vacuum chamber for easy clean up in future steps. 
 4. Turn the scale on, place a paper cup on the scale, and zero the scale.
 5. The molds need to be 3D printed before the fabrication process starts. Files to print the molds can be found in the supplemetal infomation linked above. Below are images of the required molds and assembly process. More detailed infomartion on assembly can be found in the supplemental information. 
-![Soft bistable valve](https://user-images.githubusercontent.com/68814774/157264534-b7dc763c-bf70-4f52-82ab-320634461fac.jpg)
+![Soft fluidic valve](https://user-images.githubusercontent.com/68814774/157264534-b7dc763c-bf70-4f52-82ab-320634461fac.jpg)
 
 
-### Fabrication of body for soft bistable valve
+### Fabrication of body for soft fluidic valve
 
 #### Preparing the Elastomer
 
@@ -103,7 +103,7 @@ More detailed information can be found in the linked supplemental files.
 
 More detailed information can be found in the linked supplemental files. 
 
-### Fabrication of Tubing for Soft Bistable Valve
+### Fabrication of Tubing for Soft fluidic Valve
 For the tubing you will need 2 materials. Repeat the steps in Mixing and Degassing the Elastomer above with ~10g total (~5g for part A and B each) for DragonSkin 10NV to make the tubing caps. Follow the steps 3-5 in Filling the Valve Cap Molds for filling the tubing cap molds. 
 
 #### Preparing the Molds for Tubing 
@@ -152,20 +152,20 @@ Make sure to preassemble all mold before this section. To make the tubing caps r
 10. Use tweezers to remove any tubes stuck inside the main tube mold. 
 
 ### Assembly of the body and tubing 
-Repeat steps 1-3 twice to make the top and bottom portions of the soft bistable valve. Be aware that the tubing is diffrent lenghts for diffrent sides of the bisatble valve. 
+Repeat steps 1-3 twice to make the top and bottom portions of the soft fluidic valve. Be aware that the tubing is diffrent lenghts for diffrent sides of the bisatble valve. 
 
 1. To attach the cut tubes (find specifcs in supplemetal information) and the tubing connector, place the tubes on the ends of needles and then put the needles though the tubing connectors making sure the flat side of the connector is against the ends of the tubes. Place a small amout of elastomer around the ends of the tubes and top of the tube connector to connec them. Wait to cure.  
 2. Then take the cured subassembly from step 1 and place the tubing cap on the other side of th etubing connector. Use a small amout of elastomer around the perimeter to connect them, being very careful to get any elastomer inside the tubing connector. 
 3. Take the cured sub assembly from step 2 and place the ends of the tubes into the valve body caps. Bend the part to securely get the tubing to fit into the holes. Place a small amount of elastomer around the bottom of the tubing. 
-4. Use the revlolving wire puncher to make 1 hole in the top and bottom chamber of the soft bistable vlave main body. 
-5. Using a small amount of elastomer attach the top and bottom tubing subassemblies to the main body of the soft bistable valve, one at a time. Use a vice or other equipment to add pressure to securly attach the tubing subassemblies to the main valve body. 
-7. The device is ready for testing. The maximum pressure for operating the soft bistable valve with the above materials is 30 kPa. A pneumatic pump can be used to provide a positive pressure supply. 
+4. Use the revlolving wire puncher to make 1 hole in the top and bottom chamber of the soft fluidic vlave main body. 
+5. Using a small amount of elastomer attach the top and bottom tubing subassemblies to the main body of the soft fluidic valve, one at a time. Use a vice or other equipment to add pressure to securly attach the tubing subassemblies to the main valve body. 
+7. The device is ready for testing. The maximum pressure for operating the soft fluidic valve with the above materials is 30 kPa. A pneumatic pump can be used to provide a positive pressure supply. 
 
 More detailed information can be found in the linked supplemental files.
 
-## Important Physical Considerations for soft bistable valve
+## Important Physical Considerations for soft fluidic valve
 1. Propagation delay: The propagation delay is dependent on the membrane thickness, opening angle of the membrane, material properties of the membrane, as well as the chamber volume and length of tubes between valves.
-2. In a fluidic circuit as the number of soft bistable valves increases the propagation delay also increases.
+2. In a fluidic circuit as the number of soft fluidic valves increases the propagation delay also increases.
 
 More detailed information can be found in the linked supplemental files.
 
