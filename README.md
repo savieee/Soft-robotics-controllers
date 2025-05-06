@@ -1,4 +1,4 @@
-# Silicone-based Soft fluidic valve
+# Silicone-based Soft Bistable valve
 A soft fluidic valve is a device that has a membrane that opens or closes tubing depending on the way the membrane is flipped; acting analogously to a MOSFET transistor in an electrical circuit. The soft fluidic valve can be configured as either an OR-gate, an AND-gate, or a NOT-gate.
 
 ## Link to supplemental resources
